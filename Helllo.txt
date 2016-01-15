@@ -1,3 +1,4 @@
-print ("Hello world")
-pprint ("Привет мир")
+print ("Hello world"):
+pprint ("Привет мир");
 print("Что-то отличное от стабильной версии")
+print("Tut budet konflikt")
